@@ -7,7 +7,7 @@
     "Telegram",
     "python"
   ],
-  "repository": "https://github.com/JMTHON-AR/jmthon1",
+  "repository": "https://github.com/ffiixh/MATRIX_AR",
   "website": "#TODO",
   "success_url": "https://t.me/Telegram",
   "env": {
@@ -65,7 +65,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "Jmthon-iq",
+      "value": "dar",
       "required": false
     }
   },
